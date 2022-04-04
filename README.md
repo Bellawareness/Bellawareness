@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bellawareness
 - 👀 I’m interested in ...combining mindfulness, creativity and technology 
-- 🌱 I’m currently learning ...html, javascript, css, website development
-- 💞️ I’m looking to collaborate on ...creating an app that keeps account of your joy. 
+- 🌱 I’m currently learning ...HTML, JavaScript, CSS and Spanish
+- 💞️ I’m looking to collaborate on ...creating an app that keeps account of your joy, Joy Mometer.
 - 📫 How to reach me ... bella.archer06@gmail.com
 
 <!---
